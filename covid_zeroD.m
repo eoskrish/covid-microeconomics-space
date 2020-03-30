@@ -73,4 +73,17 @@ for i = 1 : 9
     totalC = totalC + Y(:,(i-1)*7+6);
     totalD = totalD + Y(:,i*7);
 end
-loglog(T,totalS, T,totalE, T,totalI, T,totalR, T,totalH, T,totalC, T,totalD)
+sprintf('%.f, %.f, %.f, %.f, %.f, %.f, %.f', totalS(end), totalE(end), totalI(end), totalR(end), totalH(end), totalC(end), totalD(end))
+finalN = totalS+totalE+totalI+totalR+totalH+totalC+totalD;
+
+figure, plot(T,totalS, T,totalE, T,totalI, T,totalR, T,totalH, T,totalC, T,totalD)
+xlabel('time (days)')
+ylabel('number')
+legend('S','E','I','R','H','C','D')
+saveas(gcf,'real-time-plot.png')
+
+figure, loglog(T,totalS, T,totalE, T,totalI, T,totalR, T,totalH, T,totalC, T,totalD)
+xlabel('time (days)')
+ylabel('number')
+legend('S','E','I','R','H','C','D')
+saveas(gcf,'log-log-plot.png')
