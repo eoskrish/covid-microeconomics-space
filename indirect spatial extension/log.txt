@@ -1,0 +1,227 @@
+City population = 12 million
+Village population = 5000
+Number of villages = 1
+
+------------------------------------------
+
+No mititgation: zeta = 1
+No economic effect: alpha = 0
+No city-to-village migration
+
+city scene
+max infectious: 3891688
+susceptible left 337341
+exposed left 0
+infectious left 1
+total receoverd 11064627
+cumulative deaths 598031
+
+village scene
+max infectious: 0
+susceptible left 5000
+exposed left 0
+infectious left 0
+total receoverd 0
+cumulative deaths 0
+
+------------------------------------------
+
+Mild mititgation: zeta = 0.75
+No economic effect: alpha = 0
+No city-to-village migration
+ 
+city scene
+max infectious: 2862646
+susceptible left 951901
+exposed left 5
+infectious left 57
+total receoverd 10481522
+cumulative deaths 566515
+
+village scene
+max infectious: 0
+susceptible left 5000
+exposed left 0
+infectious left 0
+total receoverd 0
+cumulative deaths 0 
+
+------------------------------------------
+
+Strong mititgation: zeta = 0.5
+No economic effect: alpha = 0
+No city-to-village migration
+
+city scene
+max infectious: 1345765
+susceptible left 3195283
+exposed left 28639
+infectious left 154285
+total receoverd 8179689
+cumulative deaths 442103
+
+village scene
+max infectious: 0
+susceptible left 5000
+exposed left 0
+infectious left 0
+total receoverd 0
+cumulative deaths 0
+
+------------------------------------------
+
+No mititgation: zeta = 1
+Weak economic effect: n = 1
+No city-to-village migration
+
+city scene
+max infectious: 3872311
+susceptible left 337316
+exposed left 0
+infectious left 1
+total receoverd 11029427
+cumulative deaths 633257
+
+village scene
+max infectious: 0
+susceptible left 4935
+exposed left 0
+infectious left 0
+total receoverd 0
+cumulative deaths 65
+
+------------------------------------------
+
+Weak mititgation: zeta = 0.75
+Weak economic effect: n = 1
+No city-to-village migration
+
+city scene
+max infectious: 2828473
+susceptible left 954720
+exposed left 5
+infectious left 60
+total receoverd 10406199
+cumulative deaths 639017
+
+village scene
+max infectious: 0
+susceptible left 4913
+exposed left 0
+infectious left 0
+total receoverd 0
+cumulative deaths 87
+
+------------------------------------------
+
+Strong mititgation: zeta = 0.5
+Weak economic effect: n = 1
+No city-to-village migration
+
+city scene
+max infectious: 1273274
+susceptible left 3280530
+exposed left 33279
+infectious left 174658
+total receoverd 7868998
+cumulative deaths 642535
+
+village scene
+max infectious: 0
+susceptible left 4871
+exposed left 0
+infectious left 0
+total receoverd 0
+cumulative deaths 129
+
+------------------------------------------
+
+No mititgation: zeta = 1
+Strong economic effect: n = 5
+No city-to-village migration
+
+city scene
+max infectious: 3872311
+susceptible left 337316
+exposed left 0
+infectious left 1
+total receoverd 11029427
+cumulative deaths 633257
+
+village scene
+max infectious: 0
+susceptible left 4935
+exposed left 0
+infectious left 0
+total receoverd 0
+cumulative deaths 65
+
+------------------------------------------
+
+Weak mititgation: zeta = 0.75
+Strong economic effect: n = 5
+No city-to-village migration
+
+city scene
+max infectious: 2755103
+susceptible left 961213
+exposed left 6
+infectious left 65
+total receoverd 10243278
+cumulative deaths 795439
+
+village scene
+max infectious: 0
+susceptible left 4732
+exposed left 0
+infectious left 0
+total receoverd 0
+cumulative deaths 268
+
+------------------------------------------
+
+Strong mititgation: zeta = 0.5
+Strong economic effect: n = 5
+No city-to-village migration
+
+city scene
+max infectious: 365615
+susceptible left 5866449
+exposed left 114321
+infectious left 347008
+total receoverd 2263455
+cumulative deaths 3408767
+
+village scene
+max infectious: 0
+susceptible left 3364
+exposed left 0
+infectious left 0
+total receoverd 0
+cumulative deaths 1636
+
+------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0
