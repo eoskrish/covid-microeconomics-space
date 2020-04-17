@@ -1,7 +1,0 @@
-Notes from Nandita Chaturvedi's talk:
-
-Dozov's EPL/EPJ paper with twist-bend phase, showing chirality even when the molecular interactions themselves are achiral
-
-Bond orientation order by Kamien R D, Liquids with chiral bond order in Journal de Physique II 6(4)
-
-lipids have splay-bend phases? with no twist? apparently something called a ripple phase.
