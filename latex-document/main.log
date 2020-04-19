@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.14)  13 APR 2020 16:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.14)  18 APR 2020 14:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1426,205 +1426,203 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 46.
 
 (d:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+<figures/scheme2.png, id=19, 529.98pt x 796.4154pt>
+File: figures/scheme2.png Graphic file (type png)
+<use figures/scheme2.png>
+Package pdftex.def Info: figures/scheme2.png  used on input line 141.
+(pdftex.def)             Requested size: 452.96826pt x 680.6992pt.
+ [1
 
 
 
 {d:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<neherlab-comparison/real-time-plot-1.png, id=42, 632.3625pt x 474.27188pt>
-File: neherlab-comparison/real-time-plot-1.png Graphic file (type png)
-<use neherlab-comparison/real-time-plot-1.png>
-Package pdftex.def Info: neherlab-comparison/real-time-plot-1.png  used on inpu
-t line 105.
-(pdftex.def)             Requested size: 203.83434pt x 152.87009pt.
-<neherlab-comparison/log-log-plot-1.png, id=43, 632.3625pt x 474.27188pt>
-File: neherlab-comparison/log-log-plot-1.png Graphic file (type png)
-<use neherlab-comparison/log-log-plot-1.png>
-Package pdftex.def Info: neherlab-comparison/log-log-plot-1.png  used on input 
-line 106.
-(pdftex.def)             Requested size: 203.83434pt x 152.87009pt.
-<neherlab-comparison/real-time-plot-2.png, id=44, 421.575pt x 316.0608pt>
-File: neherlab-comparison/real-time-plot-2.png Graphic file (type png)
-<use neherlab-comparison/real-time-plot-2.png>
-Package pdftex.def Info: neherlab-comparison/real-time-plot-2.png  used on inpu
-t line 113.
-(pdftex.def)             Requested size: 203.83434pt x 152.8215pt.
-<neherlab-comparison/log-log-plot-2.png, id=45, 421.575pt x 316.0608pt>
-File: neherlab-comparison/log-log-plot-2.png Graphic file (type png)
-<use neherlab-comparison/log-log-plot-2.png>
-Package pdftex.def Info: neherlab-comparison/log-log-plot-2.png  used on input 
-line 114.
-(pdftex.def)             Requested size: 203.83434pt x 152.8215pt.
-<neherlab-comparison/strong-mitigation.png, id=46, 421.575pt x 316.0608pt>
-File: neherlab-comparison/strong-mitigation.png Graphic file (type png)
-<use neherlab-comparison/strong-mitigation.png>
-Package pdftex.def Info: neherlab-comparison/strong-mitigation.png  used on inp
-ut line 122.
-(pdftex.def)             Requested size: 452.96826pt x 339.60442pt.
- [2 <./neherlab-comparison/real-time-plot-1.png (PNG copy)> <./neherlab-compari
-son/log-log-plot-1.png (PNG copy)> <./neherlab-comparison/real-time-plot-2.png 
-(PNG copy)> <./neherlab-comparison/log-log-plot-2.png (PNG copy)>]
-<figures/our_scheme.png, id=56, 334.6101pt x 165.0165pt>
-File: figures/our_scheme.png Graphic file (type png)
-<use figures/our_scheme.png>
-Package pdftex.def Info: figures/our_scheme.png  used on input line 143.
-(pdftex.def)             Requested size: 271.7837pt x 134.03778pt.
- [3 <./neherlab-comparison/strong-mitigation.png (PNG copy)>]
-<figures/ContactMap.png, id=68, 632.3625pt x 474.27188pt>
+Overfull \vbox (47.19197pt too high) has occurred while \output is active []
+
+
+[2 <./figures/scheme2.png>]
+<figures/scheme2-network.png, id=42, 1056.8283pt x 629.4717pt>
+File: figures/scheme2-network.png Graphic file (type png)
+<use figures/scheme2-network.png>
+Package pdftex.def Info: figures/scheme2-network.png  used on input line 146.
+(pdftex.def)             Requested size: 452.96826pt x 269.7935pt.
+ [3 <./figures/scheme2-network.png>]
+<figures/ContactMap.png, id=56, 632.3625pt x 474.27188pt>
 File: figures/ContactMap.png Graphic file (type png)
 <use figures/ContactMap.png>
-Package pdftex.def Info: figures/ContactMap.png  used on input line 186.
+Package pdftex.def Info: figures/ContactMap.png  used on input line 192.
 (pdftex.def)             Requested size: 271.7837pt x 203.83885pt.
- [4 <./figures/our_scheme.png>]
-<figures/model_data_comparison.png, id=83, 632.3625pt x 474.27188pt>
+<figures/model_data_comparison.png, id=57, 632.3625pt x 474.27188pt>
 File: figures/model_data_comparison.png Graphic file (type png)
 <use figures/model_data_comparison.png>
 Package pdftex.def Info: figures/model_data_comparison.png  used on input line 
-195.
+201.
 (pdftex.def)             Requested size: 317.0764pt x 237.80838pt.
- [5 <./figures/ContactMap.png (PNG copy)>] [6 <./figures/model_data_comparison.
+ [4 <./figures/ContactMap.png (PNG copy)>] [5 <./figures/model_data_comparison.
 png (PNG copy)>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 200.
+(hyperref)                removing `math shift' on input line 206.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 200.
+(hyperref)                removing `\alpha' on input line 206.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 200.
+(hyperref)                removing `subscript' on input line 206.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 200.
+(hyperref)                removing `math shift' on input line 206.
 
-<figures/no-economic-effect/no-mitigation/City-total.png, id=97, 632.3625pt x 4
+<figures/no-economic-effect/no-mitigation/City-total.png, id=78, 632.3625pt x 4
 74.27188pt>
 File: figures/no-economic-effect/no-mitigation/City-total.png Graphic file (typ
 e png)
 <use figures/no-economic-effect/no-mitigation/City-total.png>
 Package pdftex.def Info: figures/no-economic-effect/no-mitigation/City-total.pn
-g  used on input line 205.
+g  used on input line 211.
 (pdftex.def)             Requested size: 226.48413pt x 169.86209pt.
-<figures/no-economic-effect/no-mitigation/City-all-cat.png, id=98, 632.3625pt x
+<figures/no-economic-effect/no-mitigation/City-all-cat.png, id=79, 632.3625pt x
  474.27188pt>
 File: figures/no-economic-effect/no-mitigation/City-all-cat.png Graphic file (t
 ype png)
 <use figures/no-economic-effect/no-mitigation/City-all-cat.png>
 Package pdftex.def Info: figures/no-economic-effect/no-mitigation/City-all-cat.
-png  used on input line 208.
+png  used on input line 214.
 (pdftex.def)             Requested size: 226.48413pt x 169.86209pt.
-<figures/no-economic-effect/no-mitigation/City-age-cat.png, id=99, 632.3625pt x
+<figures/no-economic-effect/no-mitigation/City-age-cat.png, id=80, 632.3625pt x
  474.27188pt>
 File: figures/no-economic-effect/no-mitigation/City-age-cat.png Graphic file (t
 ype png)
 <use figures/no-economic-effect/no-mitigation/City-age-cat.png>
 Package pdftex.def Info: figures/no-economic-effect/no-mitigation/City-age-cat.
-png  used on input line 212.
+png  used on input line 218.
 (pdftex.def)             Requested size: 226.48413pt x 169.86209pt.
-<figures/no-economic-effect/no-mitigation/City-eco-cat.png, id=100, 632.3625pt 
-x 474.27188pt>
+<figures/no-economic-effect/no-mitigation/City-eco-cat.png, id=81, 632.3625pt x
+ 474.27188pt>
 File: figures/no-economic-effect/no-mitigation/City-eco-cat.png Graphic file (t
 ype png)
 <use figures/no-economic-effect/no-mitigation/City-eco-cat.png>
 Package pdftex.def Info: figures/no-economic-effect/no-mitigation/City-eco-cat.
-png  used on input line 215.
+png  used on input line 221.
 (pdftex.def)             Requested size: 226.48413pt x 169.86209pt.
-<figures/no-economic-effect/weak-mitigation/City-total.png, id=103, 632.3625pt 
-x 474.27188pt>
+<figures/no-economic-effect/weak-mitigation/City-total.png, id=84, 632.3625pt x
+ 474.27188pt>
 File: figures/no-economic-effect/weak-mitigation/City-total.png Graphic file (t
 ype png)
 <use figures/no-economic-effect/weak-mitigation/City-total.png>
 Package pdftex.def Info: figures/no-economic-effect/weak-mitigation/City-total.
-png  used on input line 224.
+png  used on input line 230.
 (pdftex.def)             Requested size: 226.48413pt x 169.86209pt.
-<figures/no-economic-effect/weak-mitigation/City-all-cat.png, id=104, 632.3625p
-t x 474.27188pt>
+<figures/no-economic-effect/weak-mitigation/City-all-cat.png, id=85, 632.3625pt
+ x 474.27188pt>
 File: figures/no-economic-effect/weak-mitigation/City-all-cat.png Graphic file 
 (type png)
 <use figures/no-economic-effect/weak-mitigation/City-all-cat.png>
 Package pdftex.def Info: figures/no-economic-effect/weak-mitigation/City-all-ca
-t.png  used on input line 227.
+t.png  used on input line 233.
 (pdftex.def)             Requested size: 226.48413pt x 169.86209pt.
-<figures/no-economic-effect/weak-mitigation/City-age-cat.png, id=105, 632.3625p
-t x 474.27188pt>
+<figures/no-economic-effect/weak-mitigation/City-age-cat.png, id=86, 632.3625pt
+ x 474.27188pt>
 File: figures/no-economic-effect/weak-mitigation/City-age-cat.png Graphic file 
 (type png)
 <use figures/no-economic-effect/weak-mitigation/City-age-cat.png>
 Package pdftex.def Info: figures/no-economic-effect/weak-mitigation/City-age-ca
-t.png  used on input line 231.
+t.png  used on input line 237.
 (pdftex.def)             Requested size: 226.48413pt x 169.86209pt.
-<figures/no-economic-effect/weak-mitigation/City-eco-cat.png, id=106, 632.3625p
-t x 474.27188pt>
+<figures/no-economic-effect/weak-mitigation/City-eco-cat.png, id=87, 632.3625pt
+ x 474.27188pt>
 File: figures/no-economic-effect/weak-mitigation/City-eco-cat.png Graphic file 
 (type png)
 <use figures/no-economic-effect/weak-mitigation/City-eco-cat.png>
 Package pdftex.def Info: figures/no-economic-effect/weak-mitigation/City-eco-ca
-t.png  used on input line 234.
+t.png  used on input line 240.
 (pdftex.def)             Requested size: 226.48413pt x 169.86209pt.
-<figures/no-economic-effect/weak-mitigation/Village-total.png, id=107, 632.3625
-pt x 474.27188pt>
+<figures/no-economic-effect/weak-mitigation/Village-total.png, id=88, 632.3625p
+t x 474.27188pt>
 File: figures/no-economic-effect/weak-mitigation/Village-total.png Graphic file
  (type png)
 <use figures/no-economic-effect/weak-mitigation/Village-total.png>
 Package pdftex.def Info: figures/no-economic-effect/weak-mitigation/Village-tot
-al.png  used on input line 238.
+al.png  used on input line 244.
 (pdftex.def)             Requested size: 226.48413pt x 169.86209pt.
-<figures/no-economic-effect/weak-mitigation/Village-all-cat.png, id=108, 632.36
-25pt x 474.27188pt>
+<figures/no-economic-effect/weak-mitigation/Village-all-cat.png, id=89, 632.362
+5pt x 474.27188pt>
 File: figures/no-economic-effect/weak-mitigation/Village-all-cat.png Graphic fi
 le (type png)
 <use figures/no-economic-effect/weak-mitigation/Village-all-cat.png>
 Package pdftex.def Info: figures/no-economic-effect/weak-mitigation/Village-all
--cat.png  used on input line 241.
+-cat.png  used on input line 247.
 (pdftex.def)             Requested size: 226.48413pt x 169.86209pt.
-<figures/no-economic-effect/weak-mitigation/Village-age-cat.png, id=109, 632.36
-25pt x 474.27188pt>
+<figures/no-economic-effect/weak-mitigation/Village-age-cat.png, id=90, 632.362
+5pt x 474.27188pt>
 File: figures/no-economic-effect/weak-mitigation/Village-age-cat.png Graphic fi
 le (type png)
 <use figures/no-economic-effect/weak-mitigation/Village-age-cat.png>
 Package pdftex.def Info: figures/no-economic-effect/weak-mitigation/Village-age
--cat.png  used on input line 245.
+-cat.png  used on input line 251.
 (pdftex.def)             Requested size: 226.48413pt x 169.86209pt.
-<figures/no-economic-effect/weak-mitigation/Village-eco-cat.png, id=110, 632.36
-25pt x 474.27188pt>
+<figures/no-economic-effect/weak-mitigation/Village-eco-cat.png, id=91, 632.362
+5pt x 474.27188pt>
 File: figures/no-economic-effect/weak-mitigation/Village-eco-cat.png Graphic fi
 le (type png)
 <use figures/no-economic-effect/weak-mitigation/Village-eco-cat.png>
 Package pdftex.def Info: figures/no-economic-effect/weak-mitigation/Village-eco
--cat.png  used on input line 248.
+-cat.png  used on input line 254.
 (pdftex.def)             Requested size: 226.48413pt x 169.86209pt.
-[7 <./figures/no-economic-effect/no-mitigation/City-total.png (PNG copy)> <./fi
+[6 <./figures/no-economic-effect/no-mitigation/City-total.png (PNG copy)> <./fi
 gures/no-economic-effect/no-mitigation/City-all-cat.png (PNG copy)> <./figures/
 no-economic-effect/no-mitigation/City-age-cat.png (PNG copy)> <./figures/no-eco
 nomic-effect/no-mitigation/City-eco-cat.png (PNG copy)>]
 Overfull \vbox (82.94113pt too high) has occurred while \output is active []
 
 
-[8 <./figures/no-economic-effect/weak-mitigation/City-total.png (PNG copy)> <./
+[7 <./figures/no-economic-effect/weak-mitigation/City-total.png (PNG copy)> <./
 figures/no-economic-effect/weak-mitigation/City-all-cat.png (PNG copy)> <./figu
 res/no-economic-effect/weak-mitigation/City-age-cat.png (PNG copy)> <./figures/
 no-economic-effect/weak-mitigation/City-eco-cat.png (PNG copy)> <./figures/no-e
 conomic-effect/weak-mitigation/Village-total.png (PNG copy)> <./figures/no-econ
 omic-effect/weak-mitigation/Village-all-cat.png (PNG copy)> <./figures/no-econo
 mic-effect/weak-mitigation/Village-age-cat.png (PNG copy)> <./figures/no-econom
-ic-effect/weak-mitigation/Village-eco-cat.png (PNG copy)>] [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 289.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 289.
+ic-effect/weak-mitigation/Village-eco-cat.png (PNG copy)>]
+<figures//economic-model1/deaths_SD.png, id=109, 632.3625pt x 474.27188pt>
+File: figures//economic-model1/deaths_SD.png Graphic file (type png)
+<use figures//economic-model1/deaths_SD.png>
+Package pdftex.def Info: figures//economic-model1/deaths_SD.png  used on input 
+line 263.
+(pdftex.def)             Requested size: 452.96826pt x 339.73143pt.
+<figures//economic-model1/deaths_ID.png, id=110, 632.3625pt x 474.27188pt>
+File: figures//economic-model1/deaths_ID.png Graphic file (type png)
+<use figures//economic-model1/deaths_ID.png>
+Package pdftex.def Info: figures//economic-model1/deaths_ID.png  used on input 
+line 269.
+(pdftex.def)             Requested size: 452.96826pt x 339.73143pt.
+ [8 <./figures//economic-model1/deaths_SD.png (PNG copy)>]
+<figures//economic-model1/total_deaths.png, id=116, 632.3625pt x 474.27188pt>
+File: figures//economic-model1/total_deaths.png Graphic file (type png)
+<use figures//economic-model1/total_deaths.png>
+Package pdftex.def Info: figures//economic-model1/total_deaths.png  used on inp
+ut line 275.
+(pdftex.def)             Requested size: 452.96826pt x 339.73143pt.
+ [9 <./figures//economic-model1/deaths_ID.png (PNG copy)>] [10 <./figures//econ
+omic-model1/total_deaths.png (PNG copy)>]
+[11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 313.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 313.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 289.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 289.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 313.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 313.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E6C988D03283C115A75DCBA6EDCE9E7C;331.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 289.
+(rerunfilecheck)             Checksum: 626F6101A1636CE57AF0F964243F0E94;263.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 313.
  ) 
 Here is how much of TeX's memory you used:
- 35782 strings out of 492641
- 673208 string characters out of 6133115
- 822503 words of memory out of 5000000
- 39027 multiletter control sequences out of 15000+600000
+ 35771 strings out of 492641
+ 672772 string characters out of 6133115
+ 820003 words of memory out of 5000000
+ 39018 multiletter control sequences out of 15000+600000
  540670 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,11n,84p,2020b,507s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1643,10 +1641,10 @@ s/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2018/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmsy5.pfb><d:/texlive/2018/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy7.pfb><d:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 tt10.pfb>
-Output written on main.pdf (9 pages, 914783 bytes).
+Output written on main.pdf (11 pages, 1365707 bytes).
 PDF statistics:
- 202 PDF objects out of 1000 (max. 8388607)
- 148 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 PDF objects out of 1000 (max. 8388607)
+ 146 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 132 words of extra memory for PDF output out of 10000 (max. 10000000)
 

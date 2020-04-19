@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="scheme2-network.svg"
    inkscape:export-filename="D:\git-projects\covid-microeconomics-space\latex-document\figures\scheme2-network.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -1082,8 +1082,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="565.48587"
-     inkscape:cy="256.43134"
+     inkscape:cx="261.38257"
+     inkscape:cy="276.53875"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1100,7 +1100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1122,7 +1122,9 @@
          style="stroke-width:0.26458332" /></text>
     <g
        id="g6232"
-       transform="translate(0,0.74807739)">
+       transform="translate(0,0.74807739)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <g
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -2656,7 +2658,9 @@
     </g>
     <g
        id="g8149"
-       transform="translate(-2.6397934,5.8208336)">
+       transform="translate(-2.6397934,5.8208336)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <g
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -3102,7 +3106,9 @@
     </g>
     <g
        id="g8085"
-       transform="translate(-1.9037857,19.036269)">
+       transform="translate(-1.9037857,19.036269)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <g
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -3548,7 +3554,9 @@
     </g>
     <g
        id="g8021"
-       transform="translate(2.6397934,5.8208336)">
+       transform="translate(2.6397934,5.8208336)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <g
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -3996,18 +4004,78 @@
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker8161)"
        d="m 115.66071,145.80953 67.27976,-27.59226"
        id="path8151"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8161-0)"
        d="m 115.66071,145.80953 57.76952,122.98483"
        id="path8151-5"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8161-9)"
        d="m 115.66071,145.80953 61.54928,50.22441"
        id="path8151-56"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g2058"
+       transform="translate(-1.984375,0.09449405)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <text
+         id="text2048"
+         y="165.0863"
+         x="-7.3087149"
+         style="font-style:normal;font-weight:normal;font-size:7.80680799px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19517019"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.19517019"
+           y="165.0863"
+           x="-7.3087149"
+           id="tspan2046"
+           sodipodi:role="line">r</tspan></text>
+      <text
+         id="text2052"
+         y="167.63765"
+         x="-5.3152108"
+         style="font-style:normal;font-weight:normal;font-size:4.99466705px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12486667"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.12486667"
+           y="167.63765"
+           x="-5.3152108"
+           id="tspan2050"
+           sodipodi:role="line">V</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.80680799px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19517019"
+       x="-9.3559132"
+       y="225.47084"
+       id="text2048-4"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2046-0"
+         x="-9.3559132"
+         y="225.47084"
+         style="stroke-width:0.19517019">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.99466705px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12486667"
+       x="-7.3624086"
+       y="228.02219"
+       id="text2052-4"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2050-7"
+         x="-7.3624086"
+         y="228.02219"
+         style="stroke-width:0.12486667">M</tspan></text>
   </g>
 </svg>
